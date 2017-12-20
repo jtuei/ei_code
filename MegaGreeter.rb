@@ -1,4 +1,7 @@
-# from: https://www.ruby-lang.org/en/documentation/quickstart/3/
+# Created: Dec 19, 2017
+# Creator: JTu 
+#
+#from: https://www.ruby-lang.org/en/documentation/quickstart/3/
 
 
 
