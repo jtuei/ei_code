@@ -1,3 +1,7 @@
+# from: https://www.ruby-lang.org/en/documentation/quickstart/3/
+
+
+
 class MegaGreeter
 
   attr_accessor :names
